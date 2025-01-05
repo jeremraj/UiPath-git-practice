@@ -1,0 +1,13 @@
+﻿{
+  "Name": "(16) Web Automation with UiPath (Full Tutoria",
+  "Type": "Screen",
+  "Id": "6HZg-guH3k6h9IHDBtbTsw",
+  "Reference": "lnBFqP-BHUecOtgKNUp6rg/6HZg-guH3k6h9IHDBtbTsw",
+  "ParentRef": "lnBFqP-BHUecOtgKNUp6rg/WwcYUwLM5ESlzHg-KecH-A",
+  "Created": "2024-12-26T07:53:51.3523622Z",
+  "Updated": "2024-12-26T07:53:51.3523622Z",
+  "CreatedBy": [
+    "UiPath.UIAutomationCore, Version=24.12.1.0, Culture=neutral, PublicKeyToken=null",
+    "UiPath.Platform, Version=24.11.1.0, Culture=neutral, PublicKeyToken=null"
+  ]
+}
